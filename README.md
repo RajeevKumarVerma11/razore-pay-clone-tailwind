@@ -1,6 +1,7 @@
 # razore-pay-clone-tailwind
 this is razore pay clone frontend using tailwind css and html
-out put
+node_modules files not included because of node folder have huge amount of files , so you can add node modules using npm install...
+Output
 ![image](https://user-images.githubusercontent.com/105263777/216929836-09f2f1a9-132c-4637-b4ca-5976b843f519.png)
 ![image](https://user-images.githubusercontent.com/105263777/216929901-14b3eb37-4349-425d-a2fc-cf09157d5a43.png)
 ![image](https://user-images.githubusercontent.com/105263777/216929954-88efd62b-d6db-4b33-8cdf-0b51eba64663.png)
